@@ -94,6 +94,7 @@ FROM PRODUCT;
 -- them uncommented even after the first run.
 -- ======================================================================
 
+--This is a test
 -- All four rows, straight from the table.
 SELECT * FROM PRODUCT;
 
